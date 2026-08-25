@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Blitz de Carregamento \u0026 Aferição",
+  "description": "Plataforma para blitz de carregamento com sorteio diário de veículos por rotatividade, triagem física, indicadores de conformidade e meta de 5% de dispersão, alertas automáticos e relatórios para exportação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
